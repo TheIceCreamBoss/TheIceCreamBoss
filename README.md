@@ -2,19 +2,10 @@
 
 I love to code 😈😈
 
-Interests:
+Education:
 
-- Code
-
-- Code
-
-- Code
-
-    - code1
-
-    - code2
-
-- Code
+University of British Columbia
+(2022-Present)
 
 📫 How to reach me: nicholaszhang0817@gmail.com
 
