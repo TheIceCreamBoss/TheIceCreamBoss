@@ -1,4 +1,22 @@
-### Hi there 👋
+### Hi there, Welcome to my GitHub! 👋
+
+I love to code 😈😈
+
+Interests:
+
+- Code
+
+- Code
+
+- Code
+
+    - code1
+
+    - code2
+
+- Code
+
+📫 How to reach me: nicholaszhang0817@gmail.com
 
 <!--
 **TheIceCreamBoss/TheIceCreamBoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
